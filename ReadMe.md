@@ -14,7 +14,7 @@ Code - [/ch04](https://github.com/cashewshideout/diamol-labs/tree/main/ch04)
 
 ## Chapter 6 - Volumes
 
-Code - [/ch06(https://github.com/cashewshideout/diamol-labs/tree/main/ch06)
+Code - [/ch06](https://github.com/cashewshideout/diamol-labs/tree/main/ch06)
 ## Useful Docker Commands
 
 Remove _all_ existing containers
